@@ -103,15 +103,10 @@ gpu_llm = HuggingFacePipeline.from_model_id(
 - `main.py`: Contains the code for interacting with HuggingFace models and LangChain.
 - `requirements.txt`: Lists the required Python packages.
 
-## Contributing
-
-Feel free to submit issues or pull requests for improvements or new features.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ---
+
+
+
 
 ### Example Output
 
